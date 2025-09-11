@@ -21,15 +21,15 @@ Nuestro grupo trabajó en el **módulo Nº 1: Lectura de Temperatura en oficinas
 - **Lenguajes**:  
   - C++ (Arduino) para la lógica de sensores y actuadores.  
   - Python (Tkinter / PyQt) para la interfaz gráfica.  
-- **Sensores**: DHT11 (temperatura y humedad).  
-- **Actuadores**: Ventiladores controlados mediante relés.  
+- **Sensores**: DS18B20 (temperatura).  
+- **Actuadores**: Ventiladores.  
 - **Comunicación**: Serial y/o WiFi.  
 - **Base de datos**: SQLite o MySQL para registro histórico.  
 
 ---
 
 ## 🖥️ Funcionamiento
-1. El **sensor DHT11** mide la temperatura en oficinas y salas técnicas.  
+1. El **sensor DS18B20** mide la temperatura en oficinas y salas técnicas.  
 2. El microcontrolador procesa los valores y los envía a la PC/servidor.  
 3. La **interfaz gráfica en Python** muestra en tiempo real la temperatura medida.  
 4. Si la temperatura supera el umbral configurado, se activa el **ventilador** automáticamente.  
@@ -37,4 +37,4 @@ Nuestro grupo trabajó en el **módulo Nº 1: Lectura de Temperatura en oficinas
 
 ---
 
-## 📂 Estructura del Repositorio
+
