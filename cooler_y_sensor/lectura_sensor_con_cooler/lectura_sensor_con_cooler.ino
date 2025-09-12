@@ -1,6 +1,6 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
-
+// Código funcional, paso posterior: implementar modularidad
 // Pin del sensor DS18B20
 #define ONE_WIRE_BUS 16
 
