@@ -1,6 +1,6 @@
 # 🌡️ Monitoreo Térmico con Activación de Ventilación  
 Proyecto de Lenguaje de Programación Visual (LPV) – 2025
-##👥Integrantes
+## 👥Integrantes
 - Lucas Gauto 
 - Maurizio Valdez
 - Fede Moreno 
@@ -40,6 +40,7 @@ Nuestro grupo trabajó en el **módulo Nº 1: Lectura de Temperatura en oficinas
 5. Los datos se guardan en la base de datos para consultas posteriores.  
 
 ---
+
 
 
 
