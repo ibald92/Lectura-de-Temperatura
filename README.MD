@@ -3,7 +3,7 @@ Proyecto de Lenguaje de Programación Visual (LPV) – 2025
 ## 👥Integrantes
 - Lucas Gauto 
 - Maurizio Valdez
-- Fede Moreno 
+- Federico Moreno 
 - Juan Ibarra 
 ## 📌 Contexto
 Este proyecto forma parte del **Trabajo Práctico de LPV**, desarrollado dentro del caso de estudio **"GreenTech Tower"**, un edificio corporativo que busca optimizar el consumo energético, mejorar la seguridad y garantizar el confort ambiental mediante la automatización con sensores y actuadores.
@@ -40,6 +40,7 @@ Nuestro grupo trabajó en el **módulo Nº 1: Lectura de Temperatura en oficinas
 5. Los datos se guardan en la base de datos para consultas posteriores.  
 
 ---
+
 
 
 
